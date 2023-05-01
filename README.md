@@ -1,2 +1,3 @@
 # suki
-daisuke daisuke
+daisuki daisuke dai/suki
+大好き だいすけ
