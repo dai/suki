@@ -1,0 +1,18 @@
+repo_name: dai/suki
+report_id: 20523c2a5f7e001d40195ca49bcc3bca
+repo_type: Public
+timestamp: '2023-11-10T09:24:56+00:00'
+requested_by: dai
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
